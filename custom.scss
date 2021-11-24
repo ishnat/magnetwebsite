@@ -1,0 +1,27 @@
+// Custom.scss
+// Option A: Include all of Bootstrap
+
+// Custom.scss
+// Option B: Include parts of Bootstrap
+
+// Required
+@import "../bootstrap/scss/functions";
+@import "../bootstrap/scss/variables";
+@import "../bootstrap/scss/mixins";
+
+// Optional
+//@import "../bootstrap/scss/reboot";
+//@import "../bootstrap/scss/type";
+//@import "../bootstrap/scss/images";
+//@import "../bootstrap/scss/code";
+//@import "../bootstrap/scss/grid";
+$theme-colors: (
+  "primary": #000000,
+  "secondary": #000000 //initially red
+);
+
+$link-color:                #343a40; //initially red
+$link-hover-color:           #000000; //initially grey
+
+// Bootstrap and its default variables
+@import "../bootstrap/scss/bootstrap";
