@@ -30,7 +30,7 @@ body {
 }
 
 a:focus {
-    outline-color: #e40611;
+    outline-color: black;
 }
 
 .btn {
@@ -71,7 +71,7 @@ a:focus {
 .single-tribe_events .header-menu-wrapper a:hover {
     text-decoration: none;
     font-weight: 400;
-    color: #e40611 !important;
+    color: black !important;
 }
 
 .nav-masthead.sliderheader .header-menu-wrapper a,
@@ -91,7 +91,7 @@ a:focus {
 .header-menu-wrapper a:hover {
     text-decoration: none;
     font-weight: 400;
-    color: #e40611 !important;
+    color: black !important;
 }
 
 .header-menu-wrapper a {
