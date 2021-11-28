@@ -11,5 +11,6 @@
 [ ] Update typesetting, all caps, title caps?
 [ ] Replace or remove photo from mailing list widget
 [ ] Make vertical page alignment/layout consistent
+[ ] Cart symbol is broken!
 =====
 [ ] Add a 'Buy me a Coffee' Feature
