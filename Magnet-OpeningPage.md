@@ -1,6 +1,6 @@
 ![](2021-11-27-12-11-31.png)
 # Opening Page
-===
+---------
 [ ] Update World Press Photo Marketing Image
 [ ] Slow down photo transition time
 [ ] Increase contrast of Header Tabs
@@ -14,9 +14,9 @@
 [ ] Make vertical page alignment/layout consistent
 [ ] Cart symbol is broken!
 [ ] Remove menu red text, for small phone
-=====
+---------
 [ ] Add a 'Buy me a Coffee' Feature
 [ ] Add a counter no. of visitors
-===
+---------
 Ish to mock up a variations of Logos
 Mailing List to do survey
