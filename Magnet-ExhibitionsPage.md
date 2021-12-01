@@ -1,6 +1,8 @@
 ![](2021-11-27-12-38-13.png)
 ![](2021-11-27-13-11-31.png)
 
+# Exhibitions
+===
 [ ] Combine Virtual and Gallery Exhibitions
 [ ] Use virtual exhibition layout
 [ ] Full banner current/up coming exhibitions

@@ -1,5 +1,7 @@
 ![](2021-11-27-12-30-36.png)
 
+# About
+===
 [ ] Change 'About us' to 'Who are we?'
 [ ] Update typesetting, paragraph no longer then 7 words long
 [ ] Reduce amount of text
