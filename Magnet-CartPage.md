@@ -2,5 +2,5 @@
 
 # Cart
 ---------
-[ ] Remove 'Proudly supported by Widget'
-[ ] Cart seems out of place
+- [ ] Remove 'Proudly supported by Widget'
+- [ ] Cart seems out of place

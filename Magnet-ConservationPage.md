@@ -3,5 +3,5 @@
 # Remove Page
 ---------
 
-[ ] Remove page
-[ ] Add information about Magnet's focus on preserving Australian history through raising awareness of Australian photography in the 'About us' Section
+- [ ] Remove page
+- [ ] Add information about Magnet's focus on preserving Australian history through raising awareness of Australian photography in the 'About us' Section

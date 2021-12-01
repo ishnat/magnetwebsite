@@ -2,5 +2,5 @@
 
 # Remove Page
 ---------
-[ ] Remove page
-[ ] Relocate MOSS deck art show under exhibitions page
+- [ ] Remove page
+- [ ] Relocate MOSS deck art show under exhibitions page
